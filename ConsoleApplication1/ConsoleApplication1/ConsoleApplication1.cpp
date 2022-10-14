@@ -4,8 +4,10 @@ void main()
 {
     int a;
     int b;
+    int c;
     cin >> a;
     cin >> b;
-    cout << a+b;
+    cin >> c;
+    cout << a+b-c;
 
 }
